@@ -1,2 +1,8 @@
 __pycache__
 .venv
+.yarn
+!.yarn/releases
+!.yarn/patches
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
