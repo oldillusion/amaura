@@ -1,8 +1,10 @@
-import React from 'react';
+// import React from 'react';
 
-export default function App() {
+export const App = () => {
     return <>
         <p>We really like a React test too.</p>
         <p>I also like turtles.</p>
     </>;
 }
+
+export default App;
